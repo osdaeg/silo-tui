@@ -1,6 +1,6 @@
 # silo-tui
 
-Cliente TUI (interfaz de texto) para [Silo](https://github.com/osdaeg/silo), el gestor de enlaces autoalojado. Basado en [Textual](https://textual.textualize.io/).
+Cliente TUI (interfaz de texto) para [Silo](https://codeberg.org/osdaeg/silo), el gestor de enlaces autoalojado. Basado en [Textual](https://textual.textualize.io/).
 
 ![silo-tui](screenshots/silo-tui.png)
 
@@ -78,4 +78,4 @@ chmod +x silo.sh
 
 ## Servidor
 
-Este cliente requiere una instancia de [Silo](https://github.com/osdaeg/silo) corriendo y accesible.
+Este cliente requiere una instancia de [Silo](https://codeberg.org/osdaeg/silo) corriendo y accesible.
